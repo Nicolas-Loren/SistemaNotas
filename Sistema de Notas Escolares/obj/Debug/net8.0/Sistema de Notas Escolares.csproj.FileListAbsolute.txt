@@ -1,0 +1,14 @@
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Notas Escolares\Sistema de Notas Escolares\Sistema de Notas Escolares\bin\Debug\net8.0\Sistema de Notas Escolares.exe
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Notas Escolares\Sistema de Notas Escolares\Sistema de Notas Escolares\bin\Debug\net8.0\Sistema de Notas Escolares.deps.json
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Notas Escolares\Sistema de Notas Escolares\Sistema de Notas Escolares\bin\Debug\net8.0\Sistema de Notas Escolares.runtimeconfig.json
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Notas Escolares\Sistema de Notas Escolares\Sistema de Notas Escolares\bin\Debug\net8.0\Sistema de Notas Escolares.dll
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Notas Escolares\Sistema de Notas Escolares\Sistema de Notas Escolares\bin\Debug\net8.0\Sistema de Notas Escolares.pdb
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Notas Escolares\Sistema de Notas Escolares\Sistema de Notas Escolares\obj\Debug\net8.0\Sistema de Notas Escolares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Notas Escolares\Sistema de Notas Escolares\Sistema de Notas Escolares\obj\Debug\net8.0\Sistema de Notas Escolares.AssemblyInfoInputs.cache
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Notas Escolares\Sistema de Notas Escolares\Sistema de Notas Escolares\obj\Debug\net8.0\Sistema de Notas Escolares.AssemblyInfo.cs
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Notas Escolares\Sistema de Notas Escolares\Sistema de Notas Escolares\obj\Debug\net8.0\Sistema de Notas Escolares.csproj.CoreCompileInputs.cache
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Notas Escolares\Sistema de Notas Escolares\Sistema de Notas Escolares\obj\Debug\net8.0\Sistema de Notas Escolares.dll
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Notas Escolares\Sistema de Notas Escolares\Sistema de Notas Escolares\obj\Debug\net8.0\refint\Sistema de Notas Escolares.dll
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Notas Escolares\Sistema de Notas Escolares\Sistema de Notas Escolares\obj\Debug\net8.0\Sistema de Notas Escolares.pdb
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Notas Escolares\Sistema de Notas Escolares\Sistema de Notas Escolares\obj\Debug\net8.0\Sistema de Notas Escolares.genruntimeconfig.cache
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Notas Escolares\Sistema de Notas Escolares\Sistema de Notas Escolares\obj\Debug\net8.0\ref\Sistema de Notas Escolares.dll
